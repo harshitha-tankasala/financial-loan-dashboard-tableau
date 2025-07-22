@@ -107,7 +107,7 @@ The dashboard visualizes:
 ## 🧪 How to Run the Dashboard
 1. Clone the repository
 2. Open the `.twbx` Tableau file in Tableau Desktop  
-3. Ensure the dataset (`financial_loan_data.csv`) is available in the same folder  
+3. Ensure the dataset  is available in the same folder after downloading from the compressed file and extracting it in csv format in excel 
 4. Refresh the data source in Tableau  
 5. Interact with the dashboard filters and charts
 
@@ -115,7 +115,7 @@ The dashboard visualizes:
 
 ## 📂 Download Dataset
 
-📥 [Download Dataset Here](./financial_loan_data.csv)
+📥 [Download Dataset Here](https://github.com/harshitha-tankasala/financial-loan-dashboard-tableau/blob/main/Financial%20Loan%20Data.zip)
 
 ---
 
