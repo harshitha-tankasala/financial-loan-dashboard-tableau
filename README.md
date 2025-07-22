@@ -25,6 +25,7 @@ This project provides a dynamic, data-driven view of loan activities across the 
 ---
 
 ## 📊 Dashboard Overview
+![Dashboard Overview]()
 The dashboard visualizes:
 - Loan performance (good vs bad loans)
 - Loan amounts issued and repaid
