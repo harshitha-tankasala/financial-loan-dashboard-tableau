@@ -25,7 +25,7 @@ This project provides a dynamic, data-driven view of loan activities across the 
 ---
 
 ## 📊 Dashboard Overview
-![Dashboard Overview]()
+![Dashboard Overview](https://github.com/harshitha-tankasala/financial-loan-dashboard-tableau/blob/main/financial_loan_dashboard.png)
 The dashboard visualizes:
 - Loan performance (good vs bad loans)
 - Loan amounts issued and repaid
