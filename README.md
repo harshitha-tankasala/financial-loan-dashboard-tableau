@@ -15,6 +15,8 @@ An insightful Tableau dashboard project designed to visualize the performance of
 - [Challenges & Solutions](#challenges--solutions)
 - [Outcomes](#outcomes)
 - [Skills Demonstrated](#skills-demonstrated)
+- [How to Run the Dashboard](#how-to-run-the-dashboard)
+- [License](#license)
 
 
 ---
@@ -102,6 +104,24 @@ The dashboard visualizes:
 - Data Analysis and Transformation  
 
 ---
+## 🧪 How to Run the Dashboard
+1. Clone the repository
+2. Open the `.twbx` Tableau file in Tableau Desktop  
+3. Ensure the dataset (`financial_loan_data.csv`) is available in the same folder  
+4. Refresh the data source in Tableau  
+5. Interact with the dashboard filters and charts
+
+---
+
+## 📂 Download Dataset
+
+📥 [Download Dataset Here](./financial_loan_data.csv)
+
+---
+
+## 📄 License
+This project is licensed under the [MIT License](./LICENSE).
+
 
 
 
